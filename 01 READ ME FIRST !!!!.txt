@@ -1,2 +1,3 @@
-This is airline ticket reservation website where you can book your ticket through this portal.
+This is airline ticket system where you can book your ticket through this portal.
+
 .
